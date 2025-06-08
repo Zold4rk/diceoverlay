@@ -1,0 +1,10 @@
+{
+  "name": "green-screen-dice",
+  "title": "Green Screen Dice Display",
+  "version": "1.0.0",
+  "description": "Exibe rolagens em uma tela com fundo verde para chroma key no OBS.",
+  "author": "SeuNome",
+  "scripts": ["scripts/main.js"],
+  "styles": ["styles/greenscreen.css"],
+  "compatibleCoreVersion": "10"
+}
