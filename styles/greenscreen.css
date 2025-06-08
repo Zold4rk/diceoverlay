@@ -1,0 +1,15 @@
+.greenscreen-container {
+  background-color: #00FF00; /* Verde chroma key */
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dice-result {
+  font-size: 10em; /* Tamanho ajustável via settings */
+  color: white;    /* Cor ajustável via settings */
+  font-weight: bold;
+  text-shadow: 3px 3px 5px black;
+}
